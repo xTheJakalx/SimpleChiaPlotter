@@ -1,5 +1,5 @@
 # Simple Chia Plotter
-A simple Chia Plotter GUI for using the commandline to build plots
+A simple Chia Plotter GUI for using the commandline to build plots on secondary machines without running a full node.
 
 Operating System: Windows 10 (64 bit)
 
