@@ -2,3 +2,7 @@
 A simple Chia Plotter GUI for using the commandline to build plots
 
 Operating System: Windows 10 (64 bit)
+
+
+
+I wrote this program over a day, so needless to say there are little to no comments, when i feel like doing so i will comment up the source! :D
